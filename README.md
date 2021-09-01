@@ -5,4 +5,5 @@ My portfolio website.
 - https://sebastianbishop.com
 - https://ohasekai.me
 - https://yoru.codes
+- https://yoru.tech
 - https://yoru.moe
