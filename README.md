@@ -4,8 +4,8 @@ My portfolio website.
 ## Viewable:
 - https://sebastianbishop.com
 - https://ohasekai.me
-- https://yoru.click
 - https://yoru.codes
-- https://yoru.tech
+- https://yoru.click
 - https://yoru.moe
+- https://yoru.tech
 - https://yoru.us
