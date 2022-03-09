@@ -7,5 +7,4 @@ My portfolio website.
 - https://yoru.codes
 - https://yoru.click
 - https://yoru.tech
-- https://yoru.moe
 - https://yoru.us
