@@ -97,7 +97,7 @@
   })
 
   /**
-   * Scrool with ofset on links with a class name .scrollto
+   * Scroll with offset on links with a class name .scrollto
    */
   on('click', '.scrollto', function(e) {
     if (select(this.hash)) {
@@ -217,7 +217,7 @@
    */
   new Swiper('.testimonials-slider', {
     speed: 600,
-    loop: true,
+    loop: false,  // set true if more than 1
     autoplay: {
       delay: 5000,
       disableOnInteraction: false
@@ -230,12 +230,12 @@
     },
     breakpoints: {
       320: {
-        slidesPerView: 1,
+        slidesPerView: 1,  // set 3 if more than 1
         spaceBetween: 20
       },
 
       1200: {
-        slidesPerView: 3,
+        slidesPerView: 1,
         spaceBetween: 20
       }
     }
